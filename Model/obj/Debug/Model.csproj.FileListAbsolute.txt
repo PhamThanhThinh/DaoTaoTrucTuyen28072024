@@ -1,0 +1,32 @@
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\Model.dll.config
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\Model.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\Model.pdb
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\EntityFramework.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\PagedList.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\PagedList.Mvc.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\EntityFramework.xml
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\PagedList.xml
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\bin\Debug\PagedList.Mvc.xml
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\obj\Debug\Model.csproj.Up2Date
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\obj\Debug\Model.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003\DaoTaoTrucTuyen\Model\obj\Debug\Model.pdb
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\Model.dll.config
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\Model.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\Model.pdb
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\EntityFramework.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\PagedList.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\PagedList.Mvc.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\EntityFramework.xml
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\PagedList.xml
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\bin\Debug\PagedList.Mvc.xml
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\obj\Debug\Model.csproj.Up2Date
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\obj\Debug\Model.dll
+D:\ASP.NET_Framework_VisualStudio2022\220720242003 - v3\DaoTaoTrucTuyen\Model\obj\Debug\Model.pdb
